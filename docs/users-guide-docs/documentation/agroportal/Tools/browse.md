@@ -9,7 +9,7 @@ nav_order: 1
 ---
 
 {% include documentation_nav.html portal="AgroPortal" %}
-{% include shared_doc/Tools/Browse/browse.md %}
-{% include shared_doc/Tools/Browse/filters.md %}
-{% include shared_doc/Tools/Browse/submit.md %}
+{% include shared_doc/Tools/Browse/browse.md portal="AgroPortal"%}
+{% include shared_doc/Tools/Browse/filters.md portal="AgroPortal"%}
+{% include shared_doc/Tools/Browse/submit.md portal="AgroPortal"%}
 

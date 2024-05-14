@@ -9,5 +9,5 @@ nav_order: 4
 ---
 
 {% include documentation_nav.html portal="EcoPortal" %}
-{% include shared_doc/Tools/Annotator/annotator.md %}
+{% include shared_doc/Tools/Annotator/annotator.md portal="EcoPortal"%}
 

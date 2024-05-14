@@ -1,3 +1,4 @@
+# Browse
 The Browser tool allows users to search for semantic artefacts. When opening the browser page, there are two options:
 1. scroll the full list of semantic artefacts and select one to see more detailed
 information (Browse all);
